@@ -1,0 +1,51 @@
+
+<style>
+:root {
+
+    --section-light-text-color: #282a2a!important;
+    --section-dark-text-color: #282a2a!important;
+    --section-light-bg-color: #d2681e!important;
+    --section-dark-bg-color: #ffffff!important;
+     --cover-text-color: #282a2a;
+    /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+    --highlight: #d2681e;
+     --sticky-menu-text-color: #9fd067;
+     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+    --cover-title-text-shadow: white 0px 0px 7px;
+    --base-font-size: 200;
+     --font-size: 200;
+
+}
+#blog-logo {
+  max-height: none !important;
+  height: 300px !important;
+  width: auto !important;
+}
+
+.navbar-brand img,
+.navbar img {
+  max-height: none !important;
+  height: 200px !important;
+}
+</style>
+
+<!-- Custom CSS via "custom.css"-file
+     If you would rather place your custom CSS into
+     a separate file, create a "custom.css" in your
+     local "static/css"-directory. Then add a <link>-tag
+     referencing your "custom.css" like so: -->
+
+<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+
+<!-- Custom CSS: Color Codes
+     You may checkout https://htmlcolorcodes.com/ to get those
+     weird color codes (like "#22343A") ;-). -->
+
+<!-- Custom link-tags for different icons
+     Generated via https://favicon.io/favicon-generator/ -->
+
+{{ with resources.Get "images/logo.png" }}<link rel="EcoGrip" sizes="1800x1800" href="{{ .RelPermalink }}" />{{ end }}
+{{ with resources.Get "images/logo.png" }}<link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />{{ end }}
+{{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
+<link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
+
