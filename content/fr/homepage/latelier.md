@@ -6,11 +6,11 @@ weight: 2
 header_menu: true
 ---
 
-Jeune ingénieur en reconversion, passionné de bricolage et de travaux manuels en tout genre (**et d’escalade bien évidemment!**), j’ai décidé de mélanger mes passions et de me lancer dans le ressemelage de chaussons artisanal!
+Jeune ingénieur en reconversion, passionné de bricolage et de travaux manuels en tout genre (**et d’escalade bien évidemment!**), j’ai décidé de mélanger mes passions et de me lancer dans le ressemelage de chaussons d'escalade artisanal!
 
 ![moi](/images/moi2.png)
 
-Face à la montée des prix de certains services de ressemelage, j’ai d’abord commencé cette pratique pour sauver mon propre portefeuille, puis celui des copains… Et maintenant le vôtre !
+Face à la montée des prix de certains services de ressemelage de chaussons, j’ai d’abord commencé cette pratique pour sauver mon propre portefeuille, puis celui des copains… Et maintenant le vôtre !
 
 ---
 
