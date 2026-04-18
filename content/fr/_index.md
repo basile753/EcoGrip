@@ -11,7 +11,7 @@ header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "EcoGrip Atelier"
-header_subheadline: "Ressemelage artisanal, honnête et abordable sur Lyon & Annecy" 
+header_subheadline: "Ressemelage de chaussons d'escalade abordable sur Lyon & Annecy" 
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
