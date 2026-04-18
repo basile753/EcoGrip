@@ -86,8 +86,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "antoine.basile753@outlook.fr"
-        url = "mailto:antoine.basile753@outlook.fr"
+        value = "ecogrip@outlook.fr"
+        url = "mailto:ecogrip@outlook.fr"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
