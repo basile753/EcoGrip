@@ -15,11 +15,11 @@ Pour le processus de ressemelage à neuf et d'enrobage, je suis la méthodologie
 - Collage de la nouvelle gomme & Plaquage (Là-dessus pas de vanne, je suis preneur de toute suggestion)
 - Finitions & Affûtage des carres (Pas comme dans un salon de massage Thaï)
 
-![Processus de ressemelage](/images/step1.jpeg)
+![Processus de ressemelage](/images/step1.jpg)
 
-![Processus d'enrobage](/images/step2.jpeg)
+![Processus d'enrobage](/images/step2.jpg)
 
-![Finitions chaussons escalade](/images/step3.jpeg)
+![Finitions chaussons escalade](/images/step3.jpg)
 
 ---
 
@@ -35,5 +35,5 @@ Pour le processus de ressemelage à neuf et d'enrobage, je suis la méthodologie
 
 Les 2 paires présentées ci-dessous sont des exemples de ressemelage ECO:
 
-![Processus ressemelage économique](/images/eco.jpeg)
+![Processus ressemelage économique](/images/eco.jpg)
 
