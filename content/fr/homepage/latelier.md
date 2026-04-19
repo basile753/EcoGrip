@@ -8,7 +8,7 @@ header_menu: true
 
 Jeune ingénieur en reconversion, passionné de bricolage et de travaux manuels en tout genre (**et d’escalade bien évidemment!**), j’ai décidé de mélanger mes passions et de me lancer dans le ressemelage de chaussons d'escalade artisanal!
 
-![moi](/images/moi2.png)
+![Photo de l'artisan](/images/moi2.png)
 
 Face à la montée des prix de certains services de ressemelage de chaussons, j’ai d’abord commencé cette pratique pour sauver mon propre portefeuille, puis celui des copains… Et maintenant le vôtre !
 
@@ -32,7 +32,7 @@ Pour pouvoir proposer le meilleur rapport qualité-prix, j’ai opté pour le mo
 
 - **Un ponçage efficace sans superflu**: des carres parfaitement affûtés, légèrement moins esthétiques (potentiels résidus de colle, voir photos d’exemple) mais pour une performance et une tenue dans le temps tout aussi fiables que chez un cordonnier classique!
 
-![ex](/images/merged.png)
+![Gomme Vibram XS Grip 2 et exemple ressemelage](/images/merged.png)
 
 
 C’est par ces méthodes que je peux alors vous proposer un **prix défiant toute concurrence**, tarifs présentés **juste en dessous**!
