@@ -10,10 +10,10 @@ header_menu: true
 #### Le ressemelage à neuf
 
 Pour le processus de ressemelage à neuf et d'enrobage, je suis la méthodologie classique de cordonnerie: 
-- Décollage (Comme tes prochaines perfs) 
-- Ponçage (Comme tes doigts en exte) 
-- Collage de la nouvelle gomme & Plaquage (Là-dessus pas de vanne, je suis preneur de toute suggestion)
-- Finitions & Affûtage des carres (Pas comme dans un salon de massage Thaï)
+- Décollage (de tes prochaines perfs) 
+- Ponçage (de tes doigts en exte) 
+- Collage de la nouvelle gomme & Plaquage (de ta meuf... Ouais pas sûr pour celle là)
+- Finitions & Affûtage des carres (plus de vanne en stock désolé!)
 
 ![Processus de ressemelage](/images/step1.jpg)
 

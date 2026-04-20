@@ -29,6 +29,15 @@
 }
 </style>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "EcoGrip",
+  "url": "https://ecogrip.fr/"
+}
+</script>
+
 <!-- Custom CSS via "custom.css"-file
      If you would rather place your custom CSS into
      a separate file, create a "custom.css" in your
@@ -44,8 +53,6 @@
 <!-- Custom link-tags for different icons
      Generated via https://favicon.io/favicon-generator/ -->
 
-{{ with resources.Get "images/logo.png" }}<link rel="EcoGrip" sizes="1800x1800" href="{{ .RelPermalink }}" />{{ end }}
-{{ with resources.Get "images/logo.png" }}<link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />{{ end }}
-{{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
-<link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
+<link rel="icon" href="/images/logo.png" type="image/png">
+<link rel="apple-touch-icon" href="/images/favicon.png">
 
