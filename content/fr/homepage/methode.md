@@ -12,8 +12,8 @@ header_menu: true
 Pour le processus de ressemelage à neuf et d'enrobage, je suis la méthodologie classique de cordonnerie: 
 - Décollage (de tes prochaines perfs) 
 - Ponçage (de tes doigts en exte) 
-- Collage de la nouvelle gomme & Plaquage (de ta meuf... Ouais pas sûr pour celle là)
-- Finitions & Affûtage des carres (plus de vanne en stock désolé!)
+- Collage de la nouvelle gomme (pour arrêter de zipper comme une braguette)
+- Finitions & Affûtage des carres (plus tranchants encore que ton regard devant le crux)
 
 ![Processus de ressemelage](/images/step1.jpg)
 
@@ -35,5 +35,5 @@ Pour le processus de ressemelage à neuf et d'enrobage, je suis la méthodologie
 
 Les 2 paires présentées ci-dessous sont des exemples de ressemelage ECO:
 
-![Processus ressemelage économique](/images/eco.jpg)
+![Processus ressemelage économique](/images/eco.png)
 
