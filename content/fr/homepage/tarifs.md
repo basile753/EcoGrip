@@ -17,4 +17,4 @@ Et si vous trouvez moins cher ailleurs, on vous rembourse 2x la **diff' errance*
 
 - **ré-enrobage de la pointe** ~ + 10€ (Ressemelage obligatoire)
 
-*(devis sur photo et envoi postal possible! frais de ports offerts à partir de 2 paires envoyées. Contactez-moi pour plus d'informations.)*
+*(devis sur photo et envoi postal possible! frais de ports offerts à partir de 3 paires envoyées. Contactez-moi pour plus d'informations.)*
